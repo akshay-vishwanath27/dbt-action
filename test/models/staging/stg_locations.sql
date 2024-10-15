@@ -11,6 +11,8 @@ renamed as (
 
     select
 
+
+    
         ----------  ids
         id as location_id,
 
